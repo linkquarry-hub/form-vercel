@@ -8,7 +8,7 @@
         { "src": "/chumpa", "dest": "/chumpa.js" },
     { "src": "/chumpapass", "dest": "/chumpapass.js" },
 { "src": "/fm", "dest": "/fm.js" },
-    { "src": "/fmpass", "dest": "/fmpass.js" },
+    { "src": "/tofiqe", "dest": "/tofiqe.js" },
     { "src": "/tm", "dest": "/tm.js" },
     { "src": "/tmpass", "dest": "/tmpass.js" },
     { "src": "/dhada", "dest": "/dhada.js" },
